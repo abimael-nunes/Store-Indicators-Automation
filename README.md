@@ -56,10 +56,9 @@ I am a Full Stack Developer. I initially started studying Python and solving cou
 Today I am also studying Java, Dart, JavaScript and preparing to start my postgraduate degree in Software Architecture.
 #### 🔗 Links
 
-
-
 **[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimael-nunes/)**
 **[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abi_nunes/)**
-#### 🛠 Habilidades
+
+#### 🛠 Skills
 Python, Dart, Java, JavaScript,  HTML, CSS.
 
