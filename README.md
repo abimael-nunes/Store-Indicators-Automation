@@ -8,6 +8,7 @@ This script automates the process of analyzing sales data, generating reports, a
 ## Requirements
 
 - Python 3.x
+
 | Library | Version | Install                   |
 |---------|---------|---------------------------|
 | pandas  | 2.2.3   | ```pip install pandas```  |
